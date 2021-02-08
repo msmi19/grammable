@@ -5,7 +5,7 @@ ruby '2.5.3'
 
 gem "fog-aws"
 gem 'figaro'
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'devise'
 gem "simple_form", ">= 5.0.0"
 gem 'jquery-rails'
